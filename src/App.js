@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://sorting-alogorithm-visualizer-project.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
